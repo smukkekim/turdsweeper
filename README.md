@@ -1,2 +1,2 @@
 # turdsweeper
-...mine sweeper experiments
+...mine sweeper js experiments
